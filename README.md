@@ -1,8 +1,5 @@
 # Hospitality-Analytics
 
-
-# Hospitality Analytics Dashboard
-
 ## Project Overview
 The **Hospitality Analytics Dashboard** is designed to provide valuable insights into the **hospitality industry** using Power BI.
 This project analyzes various key performance indicators (KPIs) such as **booking trends, revenue insights, customer demographics, and occupancy metrics**.
